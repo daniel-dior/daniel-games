@@ -862,4 +862,7 @@ z-index: 1;
     .items2-img {
         flex-direction: column;
     }
+    .next-items {
+        padding: 10px;
+    }
  }
