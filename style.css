@@ -51,7 +51,7 @@ body {
     animation: ring 2s linear infinite ;
 }
 .disppear {
-    animation:  vanish 7s forwards ;
+    animation:  vanish 4s forwards ;
 }
 @keyframes vanish {
     100% {
